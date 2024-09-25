@@ -1,0 +1,5 @@
+Quantidade de numeros positivos: 20
+Quantidade de numeros negativos: 8
+Quantidade de numeros zero: 4
+Quantidade de numeros pares: 8
+Quantidade de numeros impares: 24
